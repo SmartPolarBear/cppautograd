@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/eigen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/fmt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/gsl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/xtensor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/xtl" vcs="Git" />
   </component>
 </project>

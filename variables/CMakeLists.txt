@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.21)
 
-target_include_directories(cppautograd PRIVATE include)
+target_include_directories(cppautograd
+        INTERFACE include)
 
-target_sources(cppautograd PRIVATE variable.cpp)
+target_sources(cppautograd
+        INTERFACE variable.cpp)

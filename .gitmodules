@@ -7,3 +7,9 @@
 [submodule "libs/fmt"]
 	path = libs/fmt
 	url = https://github.com/fmtlib/fmt.git
+[submodule "libs/xtensor"]
+	path = libs/xtensor
+	url = https://github.com/xtensor-stack/xtensor.git
+[submodule "libs/xtl"]
+	path = libs/xtl
+	url = https://github.com/xtensor-stack/xtl.git
