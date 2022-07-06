@@ -1,0 +1,9 @@
+[submodule "libs/eigen"]
+	path = libs/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "libs/gsl"]
+	path = libs/gsl
+	url = https://github.com/microsoft/GSL.git
+[submodule "libs/fmt"]
+	path = libs/fmt
+	url = https://github.com/fmtlib/fmt.git
